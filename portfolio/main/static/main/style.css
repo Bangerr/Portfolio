@@ -1,0 +1,28 @@
+body {
+  background-color: #062b4a;
+}
+
+.container-fluid {
+  background-color: #062b4a !important;
+}
+
+.home {
+  font-size: larger;
+}
+
+.container-fluid a {
+  margin-left: 35%;
+  padding: 0;
+  display: inline-block;
+}
+
+.profile-pic {
+  height: 60px;
+  width: 60px;
+  border-radius: 40%;
+  margin-right: 400px;
+}
+
+#navbarSupportedContent {
+  margin-right: 50px;
+}
